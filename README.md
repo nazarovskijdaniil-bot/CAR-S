@@ -19,7 +19,7 @@
  <img width="374" height="184" alt="image" src="https://github.com/user-attachments/assets/e1f9732f-3167-47dd-bd0a-98d923290827" />
 
 
-Анимация заезда
+Анимация заезда 
  
 <img width="1123" height="412" alt="image" src="https://github.com/user-attachments/assets/4179edb8-f340-4755-b71e-c35061f269f8" />
  <img width="453" height="141" alt="image" src="https://github.com/user-attachments/assets/ee31f0dd-ef82-4ea4-8996-c7a04229924f" />
